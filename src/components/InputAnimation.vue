@@ -103,7 +103,7 @@ export default {
           class="absolute flex justify-items-center items-center bg-[#cbd5e1] w-2 rounded-2xl translate-y-[-50%] top-0 ml-4 mt-6 cursor"
         >
           <div
-            class="progress absolute left-2/4 bottom-0 translate-x-[-50%] bg-[#126612]"
+            class="progress rounded-2xl absolute left-2/4 bottom-0 translate-x-[-50%] bg-[#126612]"
           ></div>
           <svg
             class="w-[30px] h-[30px] text-gray-800 scale-0 shrink-0 checkmark"
